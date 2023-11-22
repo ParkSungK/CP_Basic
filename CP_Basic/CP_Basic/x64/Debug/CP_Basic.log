@@ -1,6 +1,2 @@
-﻿  Ch02_variable.cpp
-  Ch03_cal.cpp
-  CP_Basic.cpp
-C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\CP_Basic.cpp(56,6): warning C4804: '>=': unsafe use of type 'bool' in operation
-  Generating Code...
+﻿  Ch08_Aray.cpp
   CP_Basic.vcxproj -> C:\Users\addinedu\Documents\CP_Basic\CP_Basic\x64\Debug\CP_Basic.exe
