@@ -43,3 +43,29 @@ void Grade(int NumTest);
 void ProcessScore();
 void StringArray();
 void BubbleSort();
+void MultiArray();
+//09
+void DefinStructure();
+void StructureArray();
+//10
+void Enumeration();
+
+//Ex01**
+void EvenOdd();
+void PrintEven();
+void StandardGrade();
+
+//Ex02**
+void ArraySum();
+void Sort();
+void Reverse();
+
+//Ex03
+int Absolute(int Number01);
+
+
+//Test01
+void SumSum();
+
+//Test02
+void test();

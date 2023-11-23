@@ -18,11 +18,14 @@ int main()
 	cout << 30 + ParamReturn(10, 20) << endl;
 	cout << 30 + ParamReturn(30, 20) << endl;
 	cout << 30 + ParamReturn(50, 10) << endl;*/
-	//PrintArray();
-	//SumArray();
-	//ProcessScore();
-	BubbleSort();
-
+	//MultiArray();
+	 //ArraySum();
+	/*Sort();
+	 Reverse();*/
+	//cout<<Absolute(-5);
+	
+	SumSum();
+	test();
 }
 
 		

@@ -135,7 +135,15 @@
     <ClCompile Include="Ch06_Function.cpp" />
     <ClCompile Include="Ch07_Var.cpp" />
     <ClCompile Include="Ch08_Aray.cpp" />
+    <ClCompile Include="Ch09_Struct.cpp" />
+    <ClCompile Include="Ch10_Enum.cpp" />
     <ClCompile Include="CP_Basic.cpp" />
+    <ClCompile Include="Ex01_Flow.cpp" />
+    <ClCompile Include="Ex02_Flow.cpp" />
+    <ClCompile Include="Ex03_Function.cpp" />
+    <ClCompile Include="Test01.cpp" />
+    <ClCompile Include="Test02.cpp" />
+    <ClCompile Include="Test03.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Definefunction.h" />

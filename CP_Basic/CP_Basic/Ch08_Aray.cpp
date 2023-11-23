@@ -130,3 +130,19 @@ void BubbleSort() {
 		cout << Number1[i] << " : ";
 	}
 }
+
+//2차원 배열
+void MultiArray() {
+
+	int Number01[2][3] = { {1,2,3},{4,5,6} };
+	
+	for (int i = 0; i < 2; i++)
+	{
+		for (int j = 0; j < 3; j++)
+		{
+			cout << Number01[i][j] << " : ";
+		}
+	}
+
+
+}
