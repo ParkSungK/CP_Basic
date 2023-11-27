@@ -63,7 +63,16 @@
     <ClCompile Include="Test02.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Test03.cpp">
+    <ClCompile Include="Ex04_ball.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch11_Point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ch12_Dynamic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex04_dice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

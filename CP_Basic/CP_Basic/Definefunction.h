@@ -63,9 +63,26 @@ void Reverse();
 //Ex03
 int Absolute(int Number01);
 
+// 11
+void PointerCalc();
+void PointerVar();
+void PointerArray();
 
 //Test01
 void SumSum();
 
 //Test02
 void test();
+
+//Test03
+void startend();
+
+
+//12
+void DynamicAlloc();
+void DynamicArray();
+void InputArraySize();
+
+//Ex04**
+void Inputball();
+void Dice();

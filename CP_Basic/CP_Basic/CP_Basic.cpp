@@ -23,9 +23,22 @@ int main()
 	/*Sort();
 	 Reverse();*/
 	//cout<<Absolute(-5);
+	 
+	 /*PointerCalc();
+	PointerVar();*/
+	//PointerArray();
+	/*umSum();
+	test();*/
 	
-	SumSum();
-	test();
+	//DynamicAlloc();
+	//DynamicArray();
+	//InputArraySize();
+	
+	//startend();
+
+	//Inputball();
+	 Dice();
+
 }
 
 		
