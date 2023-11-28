@@ -139,17 +139,27 @@
     <ClCompile Include="Ch10_Enum.cpp" />
     <ClCompile Include="Ch11_Point.cpp" />
     <ClCompile Include="Ch12_Dynamic.cpp" />
+    <ClCompile Include="Ch13-1_ClassHeader.h" />
+    <ClCompile Include="Ch13-1_ClassMethod.cpp" />
+    <ClCompile Include="Ch13-2_Airplanemethod.cpp" />
+    <ClCompile Include="Ch13-3_This.cpp" />
+    <ClCompile Include="Ch13_Class.cpp" />
     <ClCompile Include="CP_Basic.cpp" />
     <ClCompile Include="Ex01_Flow.cpp" />
     <ClCompile Include="Ex02_Flow.cpp" />
     <ClCompile Include="Ex03_Function.cpp" />
     <ClCompile Include="Ex04_dice.cpp" />
+    <ClCompile Include="Ex06_Score.cpp" />
+    <ClCompile Include="Ex06_ScoreMethod.cpp" />
     <ClCompile Include="Test01.cpp" />
     <ClCompile Include="Test02.cpp" />
     <ClCompile Include="Ex04_ball.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Ch13-2_Airplane.h" />
+    <ClInclude Include="Ch13-3_This.h" />
     <ClInclude Include="Definefunction.h" />
+    <ClInclude Include="Ex06_ScoreClass.h" />
     <ClInclude Include="io.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

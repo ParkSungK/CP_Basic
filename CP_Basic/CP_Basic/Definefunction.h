@@ -86,3 +86,12 @@ void InputArraySize();
 //Ex04**
 void Inputball();
 void Dice();
+
+//13***초기화선언
+void DefineClass();
+void PrintPlayer();
+void PrintAirPlane();
+void DynamicAirPlane();
+
+//Ex06
+void Score();
