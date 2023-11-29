@@ -1,7 +1,11 @@
 #include "io.h"
 #include"Ex06_ScoreClass.h"
 
-Student::Student() {}
+Student::Student() {
+	this->Total = 0;
+	this->Average = 0.0f;
+	this->Grade = NULL;
+}
 
 Student::Student(char Name, int Kor, int Eng, int Math) {
 
@@ -15,7 +19,18 @@ Student::Student(char Name, int Kor, int Eng, int Math) {
 
 }
 
-Student::~Student(){}
+Student::~Student(){
+	
+}
+
+void Student::Set(char Name, int Kor, int Eng, int Math)
+{
+	this->Name = Name;
+	this->Kor = Kor;
+	this->Eng = Eng;
+	this->Math = Math;
+	
+}
 
 int Student::OperationTotal()
 {
@@ -58,6 +73,11 @@ char Student::OperationGrade()
 
 void Student:: PrintScore()
 {
+	this->OperationTotal();
+	this->OperationAverage();
+	this->OperationGrade();
+
+
 	cout << this->Name << " : " << this->Kor << " : " <<
 		this->Eng << " : " << this->Math << " : " << this->Total <<
 		" : " << this->Average << " : " << this->Grade << endl;

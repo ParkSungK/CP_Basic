@@ -44,8 +44,14 @@ int main()
 	//PrintAirPlane();
 	 //DynamicAirPlane();
 
-	Score();
+	//Score();
+	 //ArrayClass();
+	 //StringClass();
+	 //VectorClass();
+	//OverloadingFuction();
+	 //Robot();
 
+	 MemberPrint();
 }
 
 		

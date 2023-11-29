@@ -95,3 +95,20 @@ void DynamicAirPlane();
 
 //Ex06
 void Score();
+//14 <array>
+void ArrayClass();
+
+//15 <string>
+void StringClass();
+
+//16 <Vector>
+void VectorClass();
+
+//17
+void OverloadingFuction();
+
+//Ex07 ¿¹Á¦339page 1,2
+void Robot();
+
+//Ex08
+void MemberPrint();
