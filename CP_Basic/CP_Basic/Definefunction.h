@@ -104,7 +104,7 @@ void StringClass();
 //16 <Vector>
 void VectorClass();
 
-//17
+//17 같은함수 여러개로 다른조건
 void OverloadingFuction();
 
 //Ex07 예제339page 1,2
@@ -112,3 +112,15 @@ void Robot();
 
 //Ex08
 void MemberPrint();
+//18 상속
+void InHeriTence();
+//18-1 상속
+void Inherit();
+
+//19 싱글톤 전역변수
+void ClassKeyword();
+
+//20
+void Type();
+//21
+void Virtual();

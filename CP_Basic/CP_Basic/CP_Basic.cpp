@@ -51,7 +51,14 @@ int main()
 	//OverloadingFuction();
 	 //Robot();
 
-	 MemberPrint();
+	 //MemberPrint();
+	//InHeriTence();
+	 //Inherit();
+	//ClassKeyword();
+
+	 //Type();
+	 Virtual();
+
 }
 
 		

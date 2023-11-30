@@ -149,6 +149,15 @@
     <ClCompile Include="Ch16_VectorClass.cpp" />
     <ClCompile Include="Ch17-1OverLoadingMathod.cpp" />
     <ClCompile Include="Ch17_Overloading.cpp" />
+    <ClCompile Include="Ch18-1_Inhert.cpp" />
+    <ClCompile Include="Ch18-1_InhertMethod.cpp" />
+    <ClCompile Include="Ch18_inHeritebceMethod.cpp" />
+    <ClCompile Include="Ch18_inheritence.cpp" />
+    <ClCompile Include="Ch19_CLassKeyword.cpp" />
+    <ClCompile Include="Ch19_ClasskeywordMeathod.cpp" />
+    <ClCompile Include="Ch20_type.cpp" />
+    <ClCompile Include="Ch21_VC.cpp" />
+    <ClCompile Include="Ch21_VCMeathod.cpp" />
     <ClCompile Include="CP_Basic.cpp" />
     <ClCompile Include="Ex01_Flow.cpp" />
     <ClCompile Include="Ex02_Flow.cpp" />
@@ -159,7 +168,6 @@
     <ClCompile Include="Ex07-2_RobotMethod.cpp" />
     <ClCompile Include="Ex07_Robot.cpp" />
     <ClCompile Include="Ex08-2_MemberMethod.cpp" />
-    <ClCompile Include="Ex08_Member.cpp" />
     <ClCompile Include="Ex_07Robot.cpp" />
     <ClCompile Include="Test01.cpp" />
     <ClCompile Include="Test02.cpp" />
@@ -169,6 +177,10 @@
     <ClInclude Include="Ch13-2_Airplane.h" />
     <ClInclude Include="Ch13-3_This.h" />
     <ClInclude Include="Ch17-1_OverloadingClass.h" />
+    <ClInclude Include="Ch18-1_InhertClass.h" />
+    <ClInclude Include="Ch18_inheritence.h" />
+    <ClInclude Include="Ch19_ClassKeyword.h" />
+    <ClInclude Include="Ch21_VC.h" />
     <ClInclude Include="Definefunction.h" />
     <ClInclude Include="Ex06_ScoreClass.h" />
     <ClInclude Include="Ex07-1_RobotClass.h" />
