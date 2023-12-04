@@ -124,6 +124,11 @@ void ClassKeyword();
 void Type();
 //21
 void Virtual();
+<<<<<<< HEAD
 //Ex09
 
 void PrintStudent();
+=======
+
+
+>>>>>>> d8c366fc60d1b59799a1b89c76944a66c2895285
